@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
+
 import CommentDetail from "./CommentDetail"
 const App = () => {
   return (
